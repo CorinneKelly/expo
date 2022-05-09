@@ -29,7 +29,7 @@ Intermediate artifacts like `node_modules` directories are not cached and restor
 <details><summary><h4>Maximum build duration of 2 hours.</h4></summary>
 <p>
 
-If your build takes longer than 2 hours to run, it will be cancelled. This limit is lower on the free plan, and is limit is subject to change in the future.
+If your build takes longer than 2 hours to run, it will be cancelled. This limit is lower on the free plan, and this limit is subject to change in the future.
 
 </p>
 </details>
